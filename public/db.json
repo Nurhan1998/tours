@@ -1,0 +1,158 @@
+{
+    "toptours": [
+      {
+        "id": 0,
+        "imageUrl": "https://scontent.ffru1-1.fna.fbcdn.net/v/t1.6435-9/p843x403/194163573_336554337902201_4573670939310967152_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=a26aad&_nc_eui2=AeHm6dFFLvrC_NZfrhSXMOHqr29bnxlcw_Gvb1ufGVzD8VbppUkhNHrJYc8-4xvzTw6MhOL0hxitnAsQF_U2wZ6r&_nc_ohc=1xb-JaP4mKsAX_vI1Am&_nc_ht=scontent.ffru1-1.fna&oh=eb2943d777c53c183eff749d71073c6d&oe=61D7D693",
+        "name": "Кол-Тор",
+        
+        "price": 803,
+
+        "info":  "Горное озеро Кёль-Тор находится в 86 км от города Бишкек на северных склонах Киргизского хребта. Находится оно на высоте 2725 метров над уровнем моря. "
+        
+        
+      },
+      {
+        "id": 1,
+        "imageUrl": "http://s1.fotokto.ru/photo/full/24/243298.jpg",
+        "name": "Ак-Тюз",
+        "price": 245,
+        "info":  "Горное озеро Кёль-Тор находится в 86 км от города Бишкек на северных склонах Киргизского хребта. Находится оно на высоте 2725 метров над уровнем моря. "
+        
+        
+       
+      },
+      {
+        "id": 2,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAWR20DU7NcEyHj7sPzrnGJ55ktGAMWQ9W8Q&usqp=CAU",
+        "name": "Кок-Мойнок",
+        "price": 295,
+        "info":  "Горное озеро Кёль-Тор находится в 86 км от города Бишкек на северных склонах Киргизского хребта. Находится оно на высоте 2725 метров над уровнем моря. "
+        
+     
+      },
+      {
+        "id": 3,
+        "imageUrl": "https://too.kg/wp-content/uploads/img_0997_0-1024x683.jpg",
+        "name": "Чон-Кемин",
+        "price": 275,
+        "info":  "Горное озеро Кёль-Тор находится в 86 км от города Бишкек на северных склонах Киргизского хребта. Находится оно на высоте 2725 метров над уровнем моря. "
+        
+       
+      },
+      {
+        "id": 4,
+        "imageUrl": "https://www.karakol-ski.kg/assets/i/img2.jpg",
+        "name": "Каракол",
+        "price": 415,
+        "info":  "Горное озеро Кёль-Тор находится в 86 км от города Бишкек на северных склонах Киргизского хребта. Находится оно на высоте 2725 метров над уровнем моря. "
+        
+        
+      },
+      {
+        "id": 5,
+        "imageUrl": "https://vivid-travel.kz/assets/images/tours/issykul-novyj/mob3.jpg",
+        "name": "Ыссык-Куль",
+        "price": 580,
+        "info":  "Горное озеро Кёль-Тор находится в 86 км от города Бишкек на северных склонах Киргизского хребта. Находится оно на высоте 2725 метров над уровнем моря. "
+        
+        
+      }
+    
+      
+    ],
+
+    "tours" : [
+      {
+        "id": 0,
+        "imageUrl": "https://scontent.ffru1-1.fna.fbcdn.net/v/t1.6435-9/p843x403/194163573_336554337902201_4573670939310967152_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=a26aad&_nc_eui2=AeHm6dFFLvrC_NZfrhSXMOHqr29bnxlcw_Gvb1ufGVzD8VbppUkhNHrJYc8-4xvzTw6MhOL0hxitnAsQF_U2wZ6r&_nc_ohc=1xb-JaP4mKsAX_vI1Am&_nc_ht=scontent.ffru1-1.fna&oh=eb2943d777c53c183eff749d71073c6d&oe=61D7D693",
+        "name": "Yeee",
+        "types": [0, 1],
+        "sizes": [26, 30, 40],
+        "price": 803,
+        "category": 0,
+        "rating": 4
+      },
+      {
+        "id": 1,
+        "imageUrl": "http://s1.fotokto.ru/photo/full/24/243298.jpg",
+        "name": "jhhkjljk",
+        "types": [0],
+        "sizes": [26, 40],
+        "price": 245,
+        "category": 1,
+        "rating": 6
+      },
+      {
+        "id": 2,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAWR20DU7NcEyHj7sPzrnGJ55ktGAMWQ9W8Q&usqp=CAU",
+        "name": "Пиууу",
+        "types": [0],
+        "sizes": [26, 40],
+        "price": 295,
+        "category": 1,
+        "rating": 4
+      },
+      {
+        "id": 3,
+        "imageUrl": "https://too.kg/wp-content/uploads/img_0997_0-1024x683.jpg",
+        "name": "Чон-Кемин",
+        "types": [1],
+        "sizes": [26, 30, 40],
+        "price": 275,
+        "category": 2,
+        "rating": 2
+      },
+      {
+        "id": 4,
+        "imageUrl": "https://www.karakol-ski.kg/assets/i/img2.jpg",
+        "name": "Каракол",
+        "types": [0, 1],
+        "sizes": [26, 30, 40],
+        "price": 415,
+        "category": 3,
+        "rating": 8
+      },
+      {
+        "id": 5,
+        "imageUrl": "https://vivid-travel.kz/assets/images/tours/issykul-novyj/mob3.jpg",
+        "name": "Ыссык-Куль",
+        "types": [0],
+        "sizes": [30, 40],
+        "price": 580,
+        "category": 2,
+        "rating": 2
+      }
+    ],
+
+    "tour" : [
+    {
+      "id":0,
+      "imageUrl": "https://scontent.ffru1-1.fna.fbcdn.net/v/t1.6435-9/p843x403/194163573_336554337902201_4573670939310967152_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=a26aad&_nc_eui2=AeHm6dFFLvrC_NZfrhSXMOHqr29bnxlcw_Gvb1ufGVzD8VbppUkhNHrJYc8-4xvzTw6MhOL0hxitnAsQF_U2wZ6r&_nc_ohc=1xb-JaP4mKsAX_vI1Am&_nc_ht=scontent.ffru1-1.fna&oh=eb2943d777c53c183eff749d71073c6d&oe=61D7D693",
+      "title" :"Lake Issyk-Kul and Song-Kul",
+      "subtitle": "Lake Issyk-Kul and Song-Kul must see in Kyrgyzstan."
+    }
+    ],
+
+    "info" : [
+      {
+        "id":0,
+        "title": "Why choose us",
+        "text": "Jump off balconyyy, onto stranger's head. Chase ball of string hide when guests come over. Being gorgeous with belly side up i could pee on this if i had the energy but under the bed, for attack the child, open the door,"
+      }
+      
+    ]
+
+
+    
+   
+   
+  } 
+
+ 
+
+
+
+
+
+
+  
